@@ -1,5 +1,6 @@
 # ArDNSPod
 基于DNSPod用户API实现的纯Shell动态域名客户端，适配潘多拉等路由器。
+
 原作者的shell脚本，在路由器执行会有错误提示，导致crontab中无法运行
 ```
 Linux
